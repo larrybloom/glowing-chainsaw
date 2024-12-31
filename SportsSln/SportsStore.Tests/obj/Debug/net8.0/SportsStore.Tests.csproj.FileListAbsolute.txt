@@ -14,6 +14,7 @@ C:\Users\ADMIN\Documents\projects\pro-asp.net work\class work\sportstore\SportsS
 C:\Users\ADMIN\Documents\projects\pro-asp.net work\class work\sportstore\SportsSln\SportsStore.Tests\bin\Debug\net8.0\SportsStore.Tests.runtimeconfig.json
 C:\Users\ADMIN\Documents\projects\pro-asp.net work\class work\sportstore\SportsSln\SportsStore.Tests\bin\Debug\net8.0\SportsStore.Tests.dll
 C:\Users\ADMIN\Documents\projects\pro-asp.net work\class work\sportstore\SportsSln\SportsStore.Tests\bin\Debug\net8.0\SportsStore.Tests.pdb
+C:\Users\ADMIN\Documents\projects\pro-asp.net work\class work\sportstore\SportsSln\SportsStore.Tests\bin\Debug\net8.0\Castle.Core.dll
 C:\Users\ADMIN\Documents\projects\pro-asp.net work\class work\sportstore\SportsSln\SportsStore.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
 C:\Users\ADMIN\Documents\projects\pro-asp.net work\class work\sportstore\SportsSln\SportsStore.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
 C:\Users\ADMIN\Documents\projects\pro-asp.net work\class work\sportstore\SportsSln\SportsStore.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
@@ -22,6 +23,7 @@ C:\Users\ADMIN\Documents\projects\pro-asp.net work\class work\sportstore\SportsS
 C:\Users\ADMIN\Documents\projects\pro-asp.net work\class work\sportstore\SportsSln\SportsStore.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
 C:\Users\ADMIN\Documents\projects\pro-asp.net work\class work\sportstore\SportsSln\SportsStore.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
 C:\Users\ADMIN\Documents\projects\pro-asp.net work\class work\sportstore\SportsSln\SportsStore.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\ADMIN\Documents\projects\pro-asp.net work\class work\sportstore\SportsSln\SportsStore.Tests\bin\Debug\net8.0\Moq.dll
 C:\Users\ADMIN\Documents\projects\pro-asp.net work\class work\sportstore\SportsSln\SportsStore.Tests\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\ADMIN\Documents\projects\pro-asp.net work\class work\sportstore\SportsSln\SportsStore.Tests\bin\Debug\net8.0\NuGet.Frameworks.dll
 C:\Users\ADMIN\Documents\projects\pro-asp.net work\class work\sportstore\SportsSln\SportsStore.Tests\bin\Debug\net8.0\xunit.abstractions.dll
@@ -100,6 +102,7 @@ C:\Users\ADMIN\Documents\projects\pro-asp.net work\class work\sportstore\SportsS
 C:\Users\ADMIN\Documents\projects\pro-asp.net work\class work\sportstore\SportsSln\SportsStore.Tests\obj\Debug\net8.0\SportsStore.Tests.AssemblyInfoInputs.cache
 C:\Users\ADMIN\Documents\projects\pro-asp.net work\class work\sportstore\SportsSln\SportsStore.Tests\obj\Debug\net8.0\SportsStore.Tests.AssemblyInfo.cs
 C:\Users\ADMIN\Documents\projects\pro-asp.net work\class work\sportstore\SportsSln\SportsStore.Tests\obj\Debug\net8.0\SportsStore.Tests.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\projects\pro-asp.net work\class work\sportstore\SportsSln\SportsStore.Tests\obj\Debug\net8.0\SportsStore.Tests.sourcelink.json
 C:\Users\ADMIN\Documents\projects\pro-asp.net work\class work\sportstore\SportsSln\SportsStore.Tests\obj\Debug\net8.0\SportsSt.E181E18A.Up2Date
 C:\Users\ADMIN\Documents\projects\pro-asp.net work\class work\sportstore\SportsSln\SportsStore.Tests\obj\Debug\net8.0\SportsStore.Tests.dll
 C:\Users\ADMIN\Documents\projects\pro-asp.net work\class work\sportstore\SportsSln\SportsStore.Tests\obj\Debug\net8.0\refint\SportsStore.Tests.dll

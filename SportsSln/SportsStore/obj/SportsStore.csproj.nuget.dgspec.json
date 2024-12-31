@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ADMIN\\Documents\\projects\\pro-asp.net work\\class work\\sportstore\\SportsSln\\SportsStore\\SportsStore.csproj": {}
+    "C:\\Users\\ADMIN\\Documents\\projects\\pro-asp.net work\\class work\\sportstore\\sportssln\\sportsstore\\SportsStore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ADMIN\\Documents\\projects\\pro-asp.net work\\class work\\sportstore\\SportsSln\\SportsStore\\SportsStore.csproj": {
+    "C:\\Users\\ADMIN\\Documents\\projects\\pro-asp.net work\\class work\\sportstore\\sportssln\\sportsstore\\SportsStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\Documents\\projects\\pro-asp.net work\\class work\\sportstore\\SportsSln\\SportsStore\\SportsStore.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\Documents\\projects\\pro-asp.net work\\class work\\sportstore\\sportssln\\sportsstore\\SportsStore.csproj",
         "projectName": "SportsStore",
-        "projectPath": "C:\\Users\\ADMIN\\Documents\\projects\\pro-asp.net work\\class work\\sportstore\\SportsSln\\SportsStore\\SportsStore.csproj",
+        "projectPath": "C:\\Users\\ADMIN\\Documents\\projects\\pro-asp.net work\\class work\\sportstore\\sportssln\\sportsstore\\SportsStore.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\Documents\\projects\\pro-asp.net work\\class work\\sportstore\\SportsSln\\SportsStore\\obj\\",
+        "outputPath": "C:\\Users\\ADMIN\\Documents\\projects\\pro-asp.net work\\class work\\sportstore\\sportssln\\sportsstore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,6 +45,26 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
