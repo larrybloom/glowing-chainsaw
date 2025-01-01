@@ -11,9 +11,13 @@ builder.Services.AddDbContext<StoreDbContext>(opts => {
     );
 });
 
+builder.Services.AddScoped<IStoreRepository, EFStoreRepository>();
+
 var app = builder.Build();
 
 //app.MapGet("/", () => "Hello World!");
 app.UseStaticFiles();
 app.MapDefaultControllerRoute();
+
+SeedData.EnsurePopulated(app);
 app.Run();
