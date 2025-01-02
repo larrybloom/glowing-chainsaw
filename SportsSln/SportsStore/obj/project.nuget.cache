@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Y7dR+wRlYeo=",
+  "dgSpecHash": "42itYhHqOh8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ADMIN\\Documents\\projects\\pro-asp.net work\\class work\\sportstore\\SportsSln\\SportsStore\\SportsStore.csproj",
+  "projectFilePath": "C:\\Users\\ADMIN\\Documents\\projects\\pro-asp.net work\\class work\\sportstore\\sportssln\\sportsstore\\SportsStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADMIN\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
