@@ -133,3 +133,5 @@ C:\Users\ADMIN\Documents\projects\pro-asp.net work\class work\sportstore\SportsS
 C:\Users\ADMIN\Documents\projects\pro-asp.net work\class work\sportstore\SportsSln\SportsStore\obj\Debug\net8.0\SportsStore.pdb
 C:\Users\ADMIN\Documents\projects\pro-asp.net work\class work\sportstore\SportsSln\SportsStore\obj\Debug\net8.0\SportsStore.genruntimeconfig.cache
 C:\Users\ADMIN\Documents\projects\pro-asp.net work\class work\sportstore\SportsSln\SportsStore\obj\Debug\net8.0\ref\SportsStore.dll
+C:\Users\ADMIN\Documents\projects\pro-asp.net work\class work\sportstore\sportssln\sportsstore\bin\Debug\net8.0\libman.json
+C:\Users\ADMIN\Documents\projects\pro-asp.net work\class work\sportstore\sportssln\sportsstore\bin\Debug\net8.0\SportsStore.staticwebassets.runtime.json
