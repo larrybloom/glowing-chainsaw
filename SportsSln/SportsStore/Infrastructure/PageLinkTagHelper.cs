@@ -22,7 +22,7 @@ namespace SportsStore.Infrastructure{
         public string? PageAction {get; set;}
         [HtmlAttributeName(DictionaryAttributePrefix ="page-url-")]
         public Dictionary<string, object> PageUrlValues {get; set;}
-            = new Dictionary<string, object>();
+            =  new Dictionary<string, object>();
 
         public bool PageClassesEnabled { get; set; } = false;
         public string PageClass { get; set; } = String.Empty;

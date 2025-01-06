@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ADMIN\\Documents\\projects\\pro-asp.net work\\class work\\sportstore\\sportssln\\sportsstore\\SportsStore.csproj": {}
+    "C:\\Users\\ADMIN\\Documents\\projects\\pro-asp.net work\\class work\\sportstore\\SportsSln\\SportsStore\\SportsStore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ADMIN\\Documents\\projects\\pro-asp.net work\\class work\\sportstore\\sportssln\\sportsstore\\SportsStore.csproj": {
+    "C:\\Users\\ADMIN\\Documents\\projects\\pro-asp.net work\\class work\\sportstore\\SportsSln\\SportsStore\\SportsStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\Documents\\projects\\pro-asp.net work\\class work\\sportstore\\sportssln\\sportsstore\\SportsStore.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\Documents\\projects\\pro-asp.net work\\class work\\sportstore\\SportsSln\\SportsStore\\SportsStore.csproj",
         "projectName": "SportsStore",
-        "projectPath": "C:\\Users\\ADMIN\\Documents\\projects\\pro-asp.net work\\class work\\sportstore\\sportssln\\sportsstore\\SportsStore.csproj",
+        "projectPath": "C:\\Users\\ADMIN\\Documents\\projects\\pro-asp.net work\\class work\\sportstore\\SportsSln\\SportsStore\\SportsStore.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\Documents\\projects\\pro-asp.net work\\class work\\sportstore\\sportssln\\sportsstore\\obj\\",
+        "outputPath": "C:\\Users\\ADMIN\\Documents\\projects\\pro-asp.net work\\class work\\sportstore\\SportsSln\\SportsStore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
